@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="intro">
-      <h1>Nuxt Toolbox</h1>
+      <h1>Testing</h1>
      
         Hi 👋! This template gives you a
       
